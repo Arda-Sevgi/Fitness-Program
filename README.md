@@ -1,5 +1,7 @@
 # Fitness Tracker 🏋️
 
+**Public project overview.** This repository contains documentation only. Implementation source remains private. Project scope and non-confidential design details are available on request; this repository is not a runnable distribution.
+
 A Python-based fitness tracking application designed to help users record physical activities, monitor nutrition, set fitness goals and review their overall progress.
 
 The application uses a menu-driven command-line interface and stores user, activity, nutrition and goal data in CSV files. It also includes user authentication, password hashing, calorie calculations and progress tracking.
@@ -186,39 +188,11 @@ During login, the entered password is hashed using the same method and compared 
 - **hashlib**
 - Object-Oriented Programming
 
-## 📁 Project Structure
+## Reviewing this project
 
-```text
-Fitness_Program/
-│
-├── Program_Fitness/
-│   └── Fitness.py
-│
-├── users.csv
-├── activities.csv
-├── nutrition.csv
-└── goals.csv
-```
+The sections below describe the original Python application. No application or CSV data files are distributed here. For public runnable code and tests, see [Fruit Inventory](https://github.com/Arda-Sevgi/Fruit-Inventory-).
 
-The CSV files are created automatically by the application if they do not already exist.
-
-## 🚀 Getting Started
-
-### Requirements
-
-- Python 3.x
-
-No external Python packages are required.
-
-### Run the Application
-
-Navigate to the project directory and run:
-
-```bash
-python Fitness.py
-```
-
-The application will display the welcome screen and prompt you to log in or create a new account.
+[Request project details](mailto:ardasevgiuk@outlook.com?subject=Fitness%20project%20enquiry) · [Portfolio](https://arda-sevgi.github.io/Portfolio/)
 
 ## 🎮 Main Menu
 
